@@ -1,0 +1,57 @@
+body {
+    background-color: bisque;
+}
+
+.container-img src {
+background-color: bisque;
+} 
+
+.td-nama {
+background-color: aliceblue;
+}
+.td-Nim {
+    background-color: aliceblue;
+}
+.td-Fakultas {
+    background-color: aliceblue;
+}
+.td-Anita-Kayla-Putri{
+    background-color: aliceblue;
+}
+.td-411231092{
+    background-color: aliceblue;
+}
+.td-Teknik-Informatika{
+    background-color: aliceblue;
+}
+element.style{
+    inherits: section;
+}
+.wrapper section{
+    text-align: center;
+}
+body {
+    margin: 10;
+}
+
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+
+table {
+    border-collapse: collapse;
+    width: 70%;
+}
+
+th, td {
+    border: 2px solid #dddddd;
+    text-align: left;
+    padding: 6px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
